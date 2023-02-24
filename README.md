@@ -28,3 +28,5 @@
   - usb定制可以看[b站大头蔡视频](https://www.bilibili.com/video/BV1m3411b7JP)
 - 主板之前遭遇过睡眠唤醒重启的问题，禁用BlueToolFixup.kext后解决
 - config中-v没开，安装时建议开启
+
+![截屏2023-02-25 00 01 29](https://user-images.githubusercontent.com/44312535/221238022-233246a5-450e-4565-bda6-99530b2b6472.png)
